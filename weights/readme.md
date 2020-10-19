@@ -1,5 +1,5 @@
-This network is trained with DDQN method
+This network is trained with the DDQN method
 
-Effective topo is selected by runing all of the feasible topo on the first chronic, ranking the reward and select the top ones.
+Effective topo is selected by running all of the feasible topos on the first chronic, ranking the reward, and select the top ones.
 
-Sub_info is a array to discrib the start and end index of substation nodes.
+Sub_info is an array to describe the start and end index of substation nodes.
